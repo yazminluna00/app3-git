@@ -5,11 +5,11 @@ id ="com.phonegap.example2"
 version="1.0.0">
 
 
-<name>app2 Telefonia celular</name>
+<name>app3 Bibliografia de libros </name>
 
 
 <description> 
-Aplicacion que muestra informacion sobre la telefonia celular
+Aplicacion que muestra informacion sobre libros 
 </description>
 
 <author href="https://build.phonegap.com" email="lunayazmin33@gmail.com">
